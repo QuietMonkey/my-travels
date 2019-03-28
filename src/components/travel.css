@@ -1,0 +1,7 @@
+.carte{
+    background-color: darkgrey;
+    border-style: dashed;
+    border-width: 1.5px;
+    border-radius: 15px;
+    margin: 25px;
+}
